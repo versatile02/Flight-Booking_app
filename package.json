@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@kommunicate/kommunicate-chatbot-plugin": "^0.0.5",
+    "mongoose": "^6.3.3",
+    "nodemon": "^3.1.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "name": "flight-booking-final-project",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
